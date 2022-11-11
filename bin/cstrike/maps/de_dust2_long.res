@@ -1,0 +1,14 @@
+sound/misc/run.wav
+sound/misc/chicken0.wav
+sound/misc/chicken1.wav
+sound/misc/chicken2.wav
+sound/misc/chicken3.wav
+sound/misc/chicken4.wav
+sound/misc/cow.wav
+sound/misc/killChicken.wav
+sound/misc/knife_hit1.wav
+sound/misc/knife_hit3.wav
+models/chick.mdl
+models/feather.mdl
+models/w_chickenc4.mdl
+maps/de_dust2_long.res

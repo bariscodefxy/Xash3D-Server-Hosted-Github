@@ -1,1 +1,3 @@
-# Xash3D-Server-Hosted-Github
+# Xash3D-Server 
+
+- a ready-made foundation for beginners

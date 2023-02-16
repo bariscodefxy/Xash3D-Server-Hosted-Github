@@ -4,7 +4,8 @@ a ready-made foundation for beginners
 
 Discord: pitF#0001
 
-- 
+-
+
   Installation:
 
 $ sudo apt update

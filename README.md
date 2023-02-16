@@ -4,7 +4,7 @@ a ready-made foundation for beginners
 
 Discord: pitF#0001
 
-
++ 
 
 
 - Installation:
@@ -24,7 +24,7 @@ $ sudo apt install libedit-dev:i386 zlib1g-dev:i386 libedit-dev zlib1g-dev
 
 
 
-
++ 
 
 - Start the server with a non-root user!!!
  

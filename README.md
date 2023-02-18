@@ -1,4 +1,4 @@
-Discord: pitF#0001
+https://bit.ly/pitfdc
 
 # Installation:
 

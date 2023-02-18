@@ -1,12 +1,8 @@
-# Xash3D-Server 
-
-a ready-made foundation for beginners
-
 Discord: pitF#0001
 
 -
 
-|>  Installation:
+# Installation:
 
 $ sudo apt update
 
@@ -14,7 +10,7 @@ $ sudo apt install git
 
 $ git clone https://github.com/pitFz/Xash3D-Server.git
 
-|>  Dependencies:
+# Dependencies:
 
 $ sudo dpkg --add-architecture i386
 

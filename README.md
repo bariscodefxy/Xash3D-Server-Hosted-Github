@@ -14,7 +14,7 @@ $ git clone https://github.com/pitFz/Xash3D-Server.git
 
 $ sudo dpkg --add-architecture i386
 
-$ sudo apt install libedit-dev:i386 zlib1g-dev:i386 libedit-dev zlib1g-dev
+$ sudo apt install libedit-dev:i386 zlib1g-dev:i386 libedit-dev zlib1g-dev tmux
 
 - 
 

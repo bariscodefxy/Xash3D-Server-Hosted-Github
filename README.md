@@ -19,6 +19,12 @@ $ sudo apt install libedit-dev:i386 zlib1g-dev:i386 libedit-dev zlib1g-dev tmux 
 - 
 
 start the server with a non-root user!!!
+
+# Things added
+
+- Tyabus-xash3d (fork)
+
+- ReHLDS
  
 
 

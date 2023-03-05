@@ -1,7 +1,3 @@
-My Discord Server:
-
-https://bit.ly/pitfdc
-
 # Installation:
 
 $ sudo apt update

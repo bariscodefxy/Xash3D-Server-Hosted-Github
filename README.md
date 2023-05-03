@@ -29,31 +29,3 @@ It's, opening server via Github codespaces.
 
 ## About Direct server
 Sorry but, you can't open direct servers. Just, you can open NAT server. Because codespaces doesn't support UDP ports. You can enjoy NAT servers.
-
-## Installation:
-```
-sudo apt update
-```
-```
-sudo apt install git
-```
-```
-git clone https://github.com/pitFz/Xash3D-Server.git
-```
-
-## Dependencies:
-```
-sudo dpkg --add-architecture i386
-```
-```
-sudo apt install libedit-dev:i386 zlib1g-dev:i386 libedit-dev zlib1g-dev tmux -y
-```
-
-``
-start the server with a non-root user!!!
-``
-## Things added
-
-- Tyabus-xash3d (fork)
-
-- ReHLDS
